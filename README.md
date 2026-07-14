@@ -15,4 +15,3 @@ Aplicação para gerenciamento de contatos desenvolvida com arquitetura MVC.
 - JavaScript (ES6 Modules)
 - MVC
 - `localStorage`
-```
